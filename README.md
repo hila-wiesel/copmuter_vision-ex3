@@ -26,7 +26,7 @@ on the same image
 
 ## 4. Blending by pyramids-
 ### the images:
-![cat](https://github.com/hila-wiesel/copmuter_vision-ex3/blob/main/cat.jpg]
+![cat](https://github.com/hila-wiesel/copmuter_vision-ex3/blob/main/cat.jpg)
 ![sun set](https://github.com/hila-wiesel/copmuter_vision-ex3/blob/main/sunset.jpg)
 
 ### the mask:
